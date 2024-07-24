@@ -1,0 +1,2 @@
+import vex
+vex.menu()
